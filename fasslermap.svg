@@ -621,4 +621,8 @@
 		</g>
 	</g>
 </g>
+    <g id="Layer_2">
+	<rect x="28.5" y="151.681" fill="none" width="276" height="190"/>
+	<text transform="matrix(1 0 0 1 28.5002 160.249)"><tspan x="0" y="0" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">The Fassler Map takes inspiration from the work of </tspan><tspan x="0" y="14.4" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">Canadian artist Larissa Fassler. </tspan><tspan x="0" y="43.2" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">The compiled map to the right is made from 7 </tspan><tspan x="0" y="57.6" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">separate sections -one per per team- and it </tspan><tspan x="0" y="72" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">represents the personal experiences and interests </tspan><tspan x="0" y="86.4" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">of students captured while investigating a specific </tspan><tspan x="0" y="100.8" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">section of the Hoddle Grid. This rich map is a </tspan><tspan x="0" y="115.2" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">snapshot in time of Melbourne, seen through the </tspan><tspan x="0" y="129.6" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">lens of this particular studio group. </tspan><tspan x="0" y="158.4" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">Individual maps can be explored by clicking on the </tspan><tspan x="0" y="172.8" fill="#0000FF" font-family="'HelveticaNeue'" font-size="12">team number/students name.</tspan></text>
+</g>
 </svg>
